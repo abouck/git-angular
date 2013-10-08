@@ -1,0 +1,19 @@
+body {
+  background: #fafafa;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #333;
+}
+
+ul {
+  list-style: none;
+}
+
+#issues input[type="checkbox"] {
+  position: relative;
+  top: 19px;
+  left: -20px;
+}
+
+#new-issue input {
+  display: block;
+}
